@@ -19,9 +19,9 @@ int main() {
   jason.good_engineer = true;
 }
 ```
-- - - -
-* Embedded Software ![C](https://img.shields.io/badge/-blue?logo=c&logoColor=white&style=flat-square&logoWidth=25) ![Cpp](https://img.shields.io/badge/-blue?logo=cplusplus&style=flat-square&logoWidth=25)
-* ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+* Embedded Software ![C](https://img.shields.io/badge/-blue?logo=c&logoColor=white&style=plastic&logoWidth=25) ![Cpp](https://img.shields.io/badge/-blue?logo=cplusplus&style=plastic&logoWidth=25)
+* ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
 * Always learning something new!
 <!---
 jpmur/jpmur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
