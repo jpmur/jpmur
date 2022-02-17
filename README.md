@@ -7,16 +7,14 @@ class Engineer {
   public:
     int dob;
     string location;
-    string passion;
-    bool good_engineer;
+    string likes;
 };
 
 int main() {
   Engineer jason;
   jason.dob = 1998;
-  jason.location = "Cork, Ireland"
-  jason.passion = "Building cool things with software";
-  jason.good_engineer = true;
+  jason.location = "Cork, Ireland";
+  jason.likes = "Building cool things with software";
 }
 ```
 
